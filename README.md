@@ -1,4 +1,4 @@
-# # To-Do Application
+# To-Do Application
 
 A simple and interactive To-Do application built with React that allows users to manage their tasks efficiently. The app supports task creation, deletion of tasks as completed.
 
